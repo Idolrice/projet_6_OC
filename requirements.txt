@@ -1,0 +1,17 @@
+ 
+jupyter # notebook
+notebook # notebook
+jupyterlab # notebook
+
+
+pandas # excell 
+matplotlib # viz
+seaborn # viz 
+plotly # viz
+missingno # viz (NAN)
+scikit-learn  # ML
+
+isort # trier les imports  
+black # formater le code
+pytest # faire test
+black[jupyter] # formater les notebooks
